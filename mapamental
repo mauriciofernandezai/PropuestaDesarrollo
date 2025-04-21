@@ -39,7 +39,11 @@
     <h1>Propuesta de Desarrollo de Software Personalizado</h1>
   </header>
 
-  <iframe src="https://whimsical.com/propuesta-de-desarrollo-de-software-personalizado-WAZAcLMp91QKU3ULdfa1ac" allowfullscreen></iframe>
+  <iframe 
+  src="https://whimsical.com/propuesta-de-desarrollo-de-software-personalizado-WAZAcLMp91QKU3ULdfa1ac" 
+  style="width: 100%; height: 90vh; border: none;" 
+  allowfullscreen>
+</iframe>
 
   <footer>
     Compartido mediante <a href="https://whimsical.com" target="_blank" rel="noopener noreferrer">Whimsical</a>
